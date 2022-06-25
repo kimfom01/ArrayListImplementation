@@ -4,4 +4,8 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\Kim Fom\Documents\Development\Visual Studio Project Files\ArrayListImplementation\ArrayListImplementation\ArrayListImplementation.xml</DocumentationFile>
+  </PropertyGroup>
+
 </Project>
